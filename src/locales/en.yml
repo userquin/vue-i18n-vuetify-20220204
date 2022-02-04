@@ -1,0 +1,14 @@
+title: Vite + TS + VueI18n + Vuetify 3 + UnoCSS
+logo: logo
+frameworks:
+  vite: Vite
+  ts: TypeScrypt
+  vue: Vue
+  vuetify: Vuetify
+  unocss: UnoCSS
+logos:
+  vite: '@:frameworks.vite @:logo'
+  ts: '@:frameworks.ts @:logo'
+  vue: '@:frameworks.vue @:logo'
+  vuetify: '@:frameworks.vuetify @:logo'
+  unocss: '@:frameworks.unocss @:logo'
